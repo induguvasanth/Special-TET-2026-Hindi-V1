@@ -1,0 +1,1 @@
+V21: Added Full Quiz Not Opening? (Fix Guide) button below existing Usage Guide. Click to expand Cloudinary image or open full size. No Apps Script changes needed. Upload github folder contents to your GitHub Pages repository and hard refresh. Existing quiz behavior unchanged.
